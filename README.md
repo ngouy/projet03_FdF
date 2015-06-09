@@ -8,4 +8,5 @@ esc to quit
 z/x to zoom in/out
 8-2-4-6 pad to turn around x and y axes
 
-+ and - pad to increase/decrease max/min visual diff.
+\+ and - pad to increase/decrease max/min visual diff.
+
